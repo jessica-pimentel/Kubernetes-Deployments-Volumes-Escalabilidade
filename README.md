@@ -1,6 +1,6 @@
 # Curso de Kubernetes: Deployments, Volumes e Escalabilidade
 
-Este é um guia para o curso de Kubernetes focado em implantações, volumes e escalabilidade. Aqui, você aprenderá os conceitos básicos e avançados do Kubernetes, juntamente com exemplos práticos e uso de várias ferramentas e recursos.
+Este é um guia para o curso de Kubernetes focado em implantações, volumes e escalabilidade. Foi abordado os conceitos básicos e avançados do Kubernetes, juntamente com exemplos práticos e uso de várias ferramentas e recursos.
 
 ## Tópicos Abordados:
 
